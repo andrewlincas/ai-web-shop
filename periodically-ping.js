@@ -1,4 +1,4 @@
-const baseUrl = "https://ai-chat-shop.onrender.com/";
+const baseUrl = "https://ai-web-shop.onrender.com/";
 
 const wait = (seconds) => new Promise((res) => setTimeout(res, seconds * 1000));
 
